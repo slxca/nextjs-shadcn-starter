@@ -1,7 +1,7 @@
 # Next.js Starter Template with shadcn/ui
 
-![Next.js](https://img.shields.io/badge/Next.js-11-black?style=for-the-badge&logo=next.js)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-1.0-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-14.2.3-black?style=for-the-badge&logo=next.js)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0.8.0-white?style=for-the-badge)
 
 This starter template combines the power of Next.js with the user-friendly UI components from shadcn/ui. It provides a solid foundation for the rapid development of modern web applications.
 
