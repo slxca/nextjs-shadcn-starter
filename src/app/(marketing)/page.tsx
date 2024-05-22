@@ -4,50 +4,7 @@ import {Button} from "@/components/ui/button";
 import {Star} from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter - Perfect for SEO and Performance",
-  description: "Next.js Starter is the perfect project to start your next project. It is optimized for SEO and performance, and it includes all the tools you need to build a modern web application.",
-  keywords: [
-    "template",
-    "next.js",
-    "typescript",
-    "react",
-    "seo",
-    "performance",
-    "shadcn-ui",
-    "tailwindcss"
-  ],
-  openGraph: {
-    url: "https://example.com",
-    type: "website",
-    title: "Next.js Starter - Perfect for SEO and Performance",
-    description:"Next.js Starter is the perfect project to start your next project. It is optimized for SEO and performance, and it includes all the tools you need to build a modern web application.",
-    images: [
-      {
-        url: "https://example.com/images/home/thumbnail.png",
-        width: 1200,
-        height: 630,
-        alt: "Next.js Starter"
-      }
-    ]
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Next.js Starter - Perfect for SEO and Performance",
-    description: "Next.js Starter is the perfect project to start your next project. It is optimized for SEO and performance, and it includes all the tools you need to build a modern web application.",
-    creator: "@sluxaaa",
-    site: "@sluxaaa",
-    images: [
-      {
-        url: "https://dminhvu.com/images/home/thumbnail.png",
-        width: 1200,
-        height: 630,
-        alt: "Next.js Starter"
-      }
-    ]
-  },
-  alternates: {
-    canonical: "https://example.com"
-  }
+  title: "Next.js Starter - Home",
 };
 
 export default function Page() {
