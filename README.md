@@ -11,7 +11,7 @@ This starter template combines the power of Next.js with the user-friendly UI co
 - [Features](#features)
 - [Usage](#usage)
 - [Scripts](#scripts)
-- [Contributing](#contributing)
+- [Contributing](#contributing) 
 - [License](#license)
 
 ## Installation
