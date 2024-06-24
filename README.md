@@ -20,11 +20,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/slxca/nextjs-starter.git
+    git clone https://github.com/slxca/nextjs-shadcn-starter.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd nextjs-starter
+    cd nextjs-shadcn-starter
     ```
 3. Install the dependencies:
     ```bash
@@ -42,29 +42,6 @@ To run this project locally, follow these steps:
 - **shadcn/ui**: A collection of easy-to-use UI components that seamlessly integrate into your project.
 - **TypeScript**: Statically typed language for developing robust and scalable code.
 - **ESLint and Prettier**: Tools for consistent code quality and formatting.
-
-## Usage
-
-### Importing Components
-
-Use the pre-built components from shadcn/ui in your pages and components:
-
-```tsx
-import { Button } from 'shadcn/ui';
-
-const HomePage = () => (
-  <div>
-    <h1>Welcome to Next.js with shadcn/ui</h1>
-    <Button>Click Me</Button>
-  </div>
-);
-
-export default HomePage;
-```
-
-### Customizing Styles
-
-Customize the global styles in the `styles` folder and use Tailwind CSS to create custom designs.
 
 ## Scripts
 

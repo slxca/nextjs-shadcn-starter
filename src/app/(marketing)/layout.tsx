@@ -1,6 +1,4 @@
-import { GoogleAnalytics } from "@next/third-parties/google";
 import { Inter as FontSans } from "next/font/google";
-import type {Metadata, Viewport} from "next";
 import {cn} from "@/lib/utils";
 import React from "react";
 import "../globals.css";
